@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    margin: 40px 0px 60px 40px;
+}
+.logo{
+    display: flex;
+    text-decoration:none;
+}
+.logo img{
+    width: 48px;
+}
+.logo h2{
+    color: black;
+    font-size: 28px;
+    margin: 4px 531px 0px 10px;
+    font-family: 'Dancing Script' ;
+}
+.navigation-wrapper{
+    display: flex;
+}
+.nav{
+    margin: 8px 30px 0px 0px;
+    color: black;
+    font-size: 21px;
+    text-decoration: none;
+    list-style: none;
+}
+.atributes{
+    width: 70px;
+    margin-left: 20px;
+}
+.main-image{
+    width: 100%;
+    height: 600px;
+    position:absolute;
+}
+.main-page{
+    position: relative;
+    padding-left: 30%;
+    padding-top: 12%;
+}
+.arrow-wrapper{
+    display: flex;
+}
+.left-arrow{
+    position: relative;
+    width: 60px;
+    opacity: 1;
+    margin: 0px 0px 0px 10px;
+}
+.right-arrow{
+    position: relative;
+    width: 60px;
+    opacity: 1;
+    margin: 0px 0px 0px 1380px;
+}
+.main-page h1{
+    font-size: 70px;
+    font-family: 'Dancing Script' ;
+    color: #805050;
+}
+.main-page p{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 15px;
+    color: #805050;
+}
+.container{
+    max-width: 900px;
+    margin-top: 200px;
+}
+.info{
+    margin: 20px 0px 0px 250px;
+    padding: 10px 50px 10px 50px;
+    background-color: #7b747e;
+}
+.info-wrapper{
+    margin-top: 180px;
+    display: flex;
+}
+.info-wrapper h2{
+    font-size: 60px;
+    font-family:'Dancing Script';
+}
+.info-wrapper p{
+    width: 400px;
+    margin-top: 60px;
+}
+.text{
+    margin-left: 130px;
+}
+.house-img{
+    width: 600px;
+    border-radius: 100px;
+    margin-left: 190px;
+}
+.images{
+    width: 200px;
+    border-radius: 30px;
+}
+.heading{
+    margin-top: 20px;
+    margin-bottom: 20px ;
+    font-family:'Dancing Script' ;
+    color: #805050;
+    font-size: 40px;
+}
+.just-text{
+    width: 220px;
+}
+.wrapper{
+    display: flex;
+    margin-top: 100px;
+    margin-left:130px;
+}
+.mini-wrapper{
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
